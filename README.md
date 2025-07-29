@@ -58,10 +58,11 @@ python evaluator.py ~/ckpt/VIRTUAL_imagenet256_labeled.npz PATH_TO_NPZ
 ## BibTeX
 
 ```bibtex
-@article{2025Accelerating,
-  title={Accelerating Diffusion Transformer via Gradient-Optimized Cache},
-  author={ Qiu, Junxiang  and  Liu, Lin  and  Wang, Shuo  and  Lu, Jinda  and  Chen, Kezhou  and  Hao, Yanbin },
-  year={2025},
+@article{qiu2025accelerating,
+  title={Accelerating diffusion transformer via gradient-optimized cache},
+  author={Qiu, Junxiang and Liu, Lin and Wang, Shuo and Lu, Jinda and Chen, Kezhou and Hao, Yanbin},
+  journal={arXiv preprint arXiv:2503.05156},
+  year={2025}
 }
 ```
 
