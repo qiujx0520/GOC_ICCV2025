@@ -55,5 +55,15 @@ We follow DiT to evaluate FID by [the code](https://github.com/openai/guided-dif
 python evaluator.py ~/ckpt/VIRTUAL_imagenet256_labeled.npz PATH_TO_NPZ
 ```
 
+## BibTeX
+
+```bibtex
+@article{2025Accelerating,
+  title={Accelerating Diffusion Transformer via Gradient-Optimized Cache},
+  author={ Qiu, Junxiang  and  Liu, Lin  and  Wang, Shuo  and  Lu, Jinda  and  Chen, Kezhou  and  Hao, Yanbin },
+  year={2025},
+}
+```
+
 ## Acknowledgement
 This implementation is based on [DiT](https://github.com/facebookresearch/DiT) and [Learning-to-cache](https://github.com/horseee/learning-to-cache). 
