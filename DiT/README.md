@@ -1,6 +1,8 @@
 
 # Accelerating Diffusion Transformer via Gradient-Optimized Cache
 
+### [Paper](https://arxiv.org/abs/2503.05156)
+
 ## Requirement
 With pytorch(>2.0) installed, execute the following command to install necessary packages
 ```
